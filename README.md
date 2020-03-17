@@ -92,7 +92,7 @@ except ApiException as e:
 
 ## Documentation for API Endpoints
 
-All URIs are relative to *https://om-12.lrc.org.uk/V2*
+All URIs are relative to *https://om-api-dev.lrc.org.uk/V2*
 
 Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------
@@ -189,7 +189,7 @@ Class | Method | HTTP request | Description
 
 - **Type**: OAuth
 - **Flow**: accessCode
-- **Authorization URL**: https://om-12.lrc.org.uk/V2/stewards/%7Bstewardname%7D/oauth/token
+- **Authorization URL**: https://om-api-dev.lrc.org.uk/V2/stewards/%7Bstewardname%7D/oauth/token
 - **Scopes**: 
  - **read:stewards**: Read access to stewards
  - **write:stewards**: Write access to stewards
@@ -227,7 +227,7 @@ Class | Method | HTTP request | Description
 
 - **Type**: OAuth
 - **Flow**: implicit
-- **Authorization URL**: https://om-12.lrc.org.uk/V2/stewards/%7Bstewardname%7D/dialog/authorize
+- **Authorization URL**: https://om-api-dev.lrc.org.uk/V2/stewards/%7Bstewardname%7D/dialog/authorize
 - **Scopes**: 
  - **read:stewards**: Read access to stewards
  - **write:stewards**: Write access to stewards

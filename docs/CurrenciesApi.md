@@ -1,6 +1,6 @@
 # swagger_client.CurrenciesApi
 
-All URIs are relative to *https://om-12.lrc.org.uk/V2*
+All URIs are relative to *https://om-api-dev.lrc.org.uk/V2*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------

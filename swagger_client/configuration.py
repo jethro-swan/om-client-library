@@ -40,7 +40,7 @@ class Configuration(object):
             return
 
         # Default Base url
-        self.host = "https://om-12.lrc.org.uk/V2"
+        self.host = "https://om-api-dev.lrc.org.uk/V2"
         # Temp file folder for downloading files
         self.temp_folder_path = None
 
