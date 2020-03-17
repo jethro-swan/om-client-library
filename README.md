@@ -1,4 +1,6 @@
-The starting point for this client library was the [YAML description file](https://github.com/deefactorial/openmoney-api/api/swagger/swagger.yaml)
+The starting point for this client library was the [YAML description file](https://github.com/deefactorial/openmoney-api/api/swagger/swagger.yaml) written by [Dominique Legault deefactorial](https://github.com/deefactorial).  
+
+References to [http://openmoney.cc](http://openmoney.cc) have been replaced with [http://om-api-dev.lrc.org.uk](http://om-api-dev.lrc.org.uk).
 
 # swagger-client
 Openmoney API
