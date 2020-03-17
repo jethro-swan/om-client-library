@@ -2,7 +2,7 @@ The starting point for this client library was the [YAML description file](https
 
 References to [http://openmoney.cc](http://openmoney.cc) have been replaced with [http://om-api-dev.lrc.org.uk](http://om-api-dev.lrc.org.uk).
 
-This is not yet ready for use, so please don't try ...
+**This is not yet ready for use, so please don't try ...**
 
 # swagger-client
 Openmoney API
