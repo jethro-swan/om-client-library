@@ -1,3 +1,5 @@
+The starting point for this client library was the [YAML description file](https://github.com/deefactorial/openmoney-api/api/swagger/swagger.yaml)
+
 # swagger-client
 Openmoney API
 
